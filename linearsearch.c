@@ -13,7 +13,7 @@ main()
 	int i,key,a[max],n;
 	do
 	{
-		printf("Enter how many elements?\n");
+		printf("Enter the number of elements?\n");
 		scanf("%d",&n);
 	}
 	while(n<=0||n>max);
